@@ -1,0 +1,11 @@
+#operators
+a=2
+a=a+2
+print(a)
+b=440*12
+print(b)
+c=b/1000
+j=23
+k=j%5
+print(k)
+print(4**3)
